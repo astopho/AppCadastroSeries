@@ -1,6 +1,8 @@
 ﻿using System;
 
 
+
+
 namespace AppCadastroSeries
 {
     class Program
@@ -55,6 +57,7 @@ namespace AppCadastroSeries
                 Console.WriteLine("Nenhuma série cadastrada.");
                 return;
             }
+
 
             foreach(var serie in lista)
             {

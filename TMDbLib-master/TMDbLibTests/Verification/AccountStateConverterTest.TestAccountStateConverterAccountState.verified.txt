@@ -1,4 +1,0 @@
-{
-  favorite: true,
-  id: 19995
-}

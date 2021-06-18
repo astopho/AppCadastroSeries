@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\App Cadastro Séries\\AppCadastroSeries\\AppCadastroSeries..csproj": {}
+    "D:\\git\\App Cadastro Séries + TMDb\\AppCadastroSeries\\AppCadastroSeries..csproj": {}
   },
   "projects": {
-    "D:\\git\\App Cadastro Séries\\AppCadastroSeries\\AppCadastroSeries..csproj": {
+    "D:\\git\\App Cadastro Séries + TMDb\\AppCadastroSeries\\AppCadastroSeries..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\App Cadastro Séries\\AppCadastroSeries\\AppCadastroSeries..csproj",
+        "projectUniqueName": "D:\\git\\App Cadastro Séries + TMDb\\AppCadastroSeries\\AppCadastroSeries..csproj",
         "projectName": "AppCadastroSeries.",
-        "projectPath": "D:\\git\\App Cadastro Séries\\AppCadastroSeries\\AppCadastroSeries..csproj",
+        "projectPath": "D:\\git\\App Cadastro Séries + TMDb\\AppCadastroSeries\\AppCadastroSeries..csproj",
         "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\App Cadastro Séries\\AppCadastroSeries\\obj\\",
+        "outputPath": "D:\\git\\App Cadastro Séries + TMDb\\AppCadastroSeries\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config",

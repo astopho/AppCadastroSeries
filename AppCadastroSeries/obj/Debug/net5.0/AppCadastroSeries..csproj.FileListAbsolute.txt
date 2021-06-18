@@ -14,3 +14,19 @@ D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\ref\AppCadastroSeries..dll
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..pdb
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..genruntimeconfig.cache
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..exe
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..deps.json
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..runtimeconfig.json
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..runtimeconfig.dev.json
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..dll
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\ref\AppCadastroSeries..dll
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\bin\Debug\net5.0\AppCadastroSeries..pdb
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..csproj.AssemblyReference.cache
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..GeneratedMSBuildEditorConfig.editorconfig
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..AssemblyInfoInputs.cache
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..AssemblyInfo.cs
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..csproj.CoreCompileInputs.cache
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..dll
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\ref\AppCadastroSeries..dll
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..pdb
+D:\git\App Cadastro Séries + TMDb\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..genruntimeconfig.cache
