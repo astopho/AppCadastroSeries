@@ -14,3 +14,6 @@ D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\ref\AppCadastroSeries..dll
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..pdb
 D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..genruntimeconfig.cache
+D:\git\App Cadastro Séries\AppCadastroSeries\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\git\App Cadastro Séries\AppCadastroSeries\bin\Debug\net5.0\TMDbLib.dll
+D:\git\App Cadastro Séries\AppCadastroSeries\obj\Debug\net5.0\AppCadastroSeries..csproj.CopyComplete

@@ -1,5 +1,6 @@
 using System;
 
+
 namespace AppCadastroSeries
 {
     public class Serie : EntidadeBase

@@ -1,10 +1,12 @@
 ﻿using System;
-
+using TMDbLib;
 
 namespace AppCadastroSeries
 {
     class Program
     {
+        TMDbClient client = new TMDbClient("APIKey");
+
         static SerieRepositório repositorio = new SerieRepositório();
         static void Main(string[] args)
         {
@@ -55,6 +57,8 @@ namespace AppCadastroSeries
                 Console.WriteLine("Nenhuma série cadastrada.");
                 return;
             }
+            
+
 
             foreach(var serie in lista)
             {
