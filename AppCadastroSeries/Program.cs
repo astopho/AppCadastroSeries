@@ -1,6 +1,8 @@
 ﻿using System;
 using TMDbLib;
 
+
+
 namespace AppCadastroSeries
 {
     class Program
@@ -58,6 +60,7 @@ namespace AppCadastroSeries
                 return;
             }
             
+
 
 
             foreach(var serie in lista)
