@@ -10,18 +10,20 @@ namespace AppCadastroSeries
         private string Titulo { get; set; }
         private string Descricao { get; set; }
         private int Ano { get; set; }
+        private int Nota { get; set; }
 
         private bool Excluido {get ; set;}
 
         //Métodos
 
-        public Serie(int id, Genero genero, string titulo, string descricao, int ano)
+        public Serie(int id, Genero genero, string titulo, string descricao, int ano, int nota)
         {
             this.Id = id;
             this.Genero = genero;
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Nota = nota;
             this.Excluido = false;
         }
         public override string ToString()
@@ -31,7 +33,8 @@ namespace AppCadastroSeries
             retorno += "Título :" + this.Titulo + Environment.NewLine;
             retorno += "Descrição :" + this.Descricao + Environment.NewLine;
             retorno += "Ano de início :" + this.Ano + Environment.NewLine;
-            retorno += "Excluído :" + this.Excluido;
+            retorno += "Excluído :" + this.Excluido + Environment.NewLine;
+            retorno += "Nota :" + this.Nota;
             return retorno;
         }
         public string retornaTitulo()

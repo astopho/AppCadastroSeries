@@ -1,13 +1,14 @@
 ﻿using System;
-using TMDbLib;
+using TMDbLib.Client;
 
 
 
 namespace AppCadastroSeries
 {
+    
     class Program
     {
-        TMDbClient client = new TMDbClient("APIKey");
+      
 
         static SerieRepositório repositorio = new SerieRepositório();
         static void Main(string[] args)
@@ -90,11 +91,15 @@ namespace AppCadastroSeries
             Console.WriteLine("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
+            Console.WriteLine("Digite a nota da série (em números inteiros): ");
+            int entradaNota = int.Parse(Console.ReadLine());
+
             Serie novaSerie = new Serie(id: repositorio.ProximoId(),
                                                         genero : (Genero)entradaGenero,
                                                         titulo: entradaTitulo,
                                                         ano: entradaAno,
-                                                        descricao: entradaDescricao);
+                                                        descricao: entradaDescricao,
+                                                        nota: entradaNota);
             repositorio.Insere(novaSerie);       
         }
         private static void AtualizarSerie()
@@ -117,11 +122,15 @@ namespace AppCadastroSeries
             Console.Write("Digite a descrição da série: ");
             string entradaDescricao = Console.ReadLine();
 
+            Console.WriteLine("Digite a nota da série: ");
+            int entradaNota = int.Parse(Console.ReadLine());
+
             Serie atualizaSerie = new Serie(id: indiceSerie,
                                             genero : (Genero)entradaGenero,
                                             titulo: entradaTitulo,
                                             ano: entradaAno,
-                                            descricao: entradaDescricao);
+                                            descricao: entradaDescricao,
+                                            nota: entradaNota);
             repositorio.Atualiza(indiceSerie,atualizaSerie);
         }
         private static void ExcluirSerie()
@@ -147,6 +156,7 @@ namespace AppCadastroSeries
 
             Console.WriteLine(serie);
         }
+
         private static string ObterOpcaoUsuario()
         {
             Console.WriteLine();
